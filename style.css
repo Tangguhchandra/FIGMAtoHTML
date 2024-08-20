@@ -406,3 +406,6 @@ nav {
     }
 }
 
+.menu.active {
+    z-index: 10;
+}
